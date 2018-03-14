@@ -4,7 +4,11 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
+import java.util.ArrayList;
+
+import cn.nicemorning.flower.Quotes;
 import cn.nicemorning.flower.R;
+import cn.nicemorning.flower.database.dao.DatasDao;
 
 /**
  * Created by Nicemorning on 13-Mar-18.
